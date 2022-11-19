@@ -1,4 +1,4 @@
-/* Avi Walia and Nikhil Sachdev
+/* Avi Walia
  * March 23rd, 2022
  *
  * This program allows the user to select from one of three mazes and try to solve it.
